@@ -1,0 +1,6 @@
+{
+  "name": "ChemVerse: Chemistry Sandbox",
+  "description": "An immersive 3D chemistry sandbox and computational visualization laboratory where users combine chemical substances, trigger reactions, and inspect molecular structures with live PubChem integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
